@@ -12,11 +12,11 @@ To install and use:
 
 1. Generate the CSS used to replace the current GitHub icons:
 
-    $ python gencss.py > fixhub-icons.css
+    `$ python gencss.py > fixhub-icons.css`
 
 2. With Greasemonkey enabled in Firefox, install the fixhub user script:
 
-    $ firefox fixhub.user.js
+    `$ firefox fixhub.user.js`
 
 # Icons
 
