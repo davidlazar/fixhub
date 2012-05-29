@@ -1,0 +1,37 @@
+/* Hacks required to make user bar items be minibuttons */
+#user a {
+    color: #222;
+}
+
+#fixhub-userbox {
+    float: right;
+    line-height: 20px;
+    padding: 7px 0;
+}
+
+#fixhub-userbox a {
+    line-height: 16px;
+}
+
+#user-links {
+    background: inherit !important;
+    border: inherit !important;
+    box-shadow: inherit !important;
+}
+
+/* Fix position of the unread notifications count */
+#user-links .unread_count {
+    left: inherit !important;
+}
+
+/* Fix position of public/private/fork mega icon on repo page */
+.mega-icon:before {
+    font-size: inherit !important;
+}
+
+.pagehead.repohead h1 .mega-icon-private-repo,
+.pagehead.repohead h1 .mega-icon-public-repo,
+.pagehead.repohead h1 .mega-icon-repo-forked {
+    left: 10px !important;
+    top: 10px !important;
+}
