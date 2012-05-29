@@ -1,6 +1,6 @@
 # About
 
-Recently, GitHub introduced [Octicons](https://github.com/blog/1106-say-hello-to-octicons), which broke GitHub for users browsing the web with their own fonts (e.g., *Allow pages to choose their own fonts* set to **no** in Firefox). fixhub attempts to remedy the situation by replacing several of the Octicon font glyphs with PNG images or text labels. The result is I can use GitHub with my own fonts. I also think that the icons on GitHub are prettier and more meaningful with fixhub enabled.
+Recently, GitHub introduced [Octicons](https://github.com/blog/1106-say-hello-to-octicons), which broke GitHub for users browsing the web with their own fonts (e.g., *Allow pages to choose their own fonts* set to **no** in Firefox). fixhub attempts to remedy the situation by replacing several of the Octicon font glyphs with PNG images or text labels. The result is I can use GitHub with my own fonts. I also think that the fixhub icons are prettier and more meaningful than Octicons.
 
 In the future, fixhub may grow to incorporate other improvements to GitHub's appearance.
 
