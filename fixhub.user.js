@@ -1,7 +1,7 @@
 // ==UserScript==
 //
 // @name fixhub
-// @version 0.1
+// @version 0.2
 // @namespace lazar6@illinois.edu
 // @description https://github.com/davidlazar/fixhub
 //
