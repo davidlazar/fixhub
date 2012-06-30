@@ -42,17 +42,3 @@ $('span.repo-label').remove();
 
 // Remove the little clock icon next to "Latest commit to the master branch" 
 $('.last-commit span.mini-icon').remove();
-
-// Remove the icons from the repo action buttons (admin, watch, fork, ...)
-$('a.btn-admin span.icon').remove();
-$('a.btn-pull-request span.icon').remove();
-$('a.btn-watch span.icon').remove();
-$('a.btn-unwatch span.icon').remove();
-$('a.btn-fork span.icon').remove();
-$('a.btn-download span.icon').remove();
-$('a.btn-branch span.icon').remove();
-
-// Remove icons from various other buttons
-$('a.btn-follow span.icon').remove();
-$('a.btn-unfollow span.icon').remove();
-$('a.btn-back span.icon').remove();
