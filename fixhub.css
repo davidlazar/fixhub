@@ -1,3 +1,8 @@
+/* Fix position of repo icon */
+ul.repositories > li .mini-icon-public-repo {
+    top: 0px;
+}
+
 /* Hacks required to make user bar items be minibuttons */
 #user a {
     color: #222;
