@@ -5,6 +5,7 @@ import base64
 mini_icons = \
     { 'watchers': 'icons/gentleface/eye_icon_16.png'
     , 'watching': 'icons/gentleface/eye_icon_16.png'
+    , 'star': 'icons/iconic/star_16x16.png'
     , 'public-repo': 'icons/famfamfam/emoticon_smile.png'
     , 'private-repo': 'icons/famfamfam/lock.png'
     , 'repo-forked': 'icons/iconic/fork_14x16.png'
