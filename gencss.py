@@ -76,4 +76,4 @@ def fix_icon_style(style, icon_map):
 fix_icon_style('mini', mini_icons)
 fix_icon_style('mega', mega_icons)
 
-set_icon('.context-button .icon:before', context_icon)
+set_icon('.context-button:before', context_icon)
