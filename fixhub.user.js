@@ -23,15 +23,13 @@ GM_addStyle(iconCssText);
 
 // Replace the user bar icons with text
 $('a#new_repo').html('New Repo');
-// maintain notification count:
-$('a#notifications span.mini-icon').replaceWith('<span>Notifications</span>');
-$('a#settings').html('Settings');
+// TODO this hides any settings alerts
+$('a#account_settings').html('Settings');
 $('a#logout').html('Logout');
 
 // Make the user bar items be minibuttons
 $('a#new_repo').addClass('minibutton');
-$('a#notifications').addClass('minibutton');
-$('a#settings').addClass('minibutton');
+$('a#account_settings').addClass('minibutton');
 $('a#logout').addClass('minibutton');
 
 // Hack to fix user bar minibutton hover color
