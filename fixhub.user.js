@@ -38,5 +38,5 @@ $('#userbox').attr('id', 'fixhub-userbox');
 // Remove the repo label ("PUBLIC") on the very left of the page
 $('span.repo-label').remove();
 
-// Remove the little clock icon next to "Latest commit to the master branch" 
+// Remove the little clock icon next to "Latest commit to the master branch"
 $('.last-commit span.mini-icon').remove();
