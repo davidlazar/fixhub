@@ -49,3 +49,8 @@ $('span.repo-label').remove();
 
 // Remove the little clock icon next to "Latest commit to the master branch"
 $('.last-commit span.mini-icon').remove();
+
+$('a.btn-branch em.mini-icon').remove();
+
+// Remove mini-icons from all minibuttons
+$('.minibutton span.mini-icon').remove();
